@@ -47,7 +47,8 @@ section{
     padding-left: 30px;
 }
 section > p{
-    padding: 2em;
+    font-size: 1.5em;
+    padding: 30px;
 }
 section.normal{
     background-color: white;
