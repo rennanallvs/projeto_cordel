@@ -78,11 +78,11 @@ section.imagem{
     text-shadow: 1px 1px 0px black;
 }
 #img01{
-background-image: url(' ../imagens/background003.jpg');
+background-image: url(' ../imagens/background001.jpg');
 background-position: right center;
 }
 #img02{
-background-image: url('../imagens/background004.jpg');
+background-image: url('../imagens/background002.jpg');
 }
 footer {
     font-family: var(--fonte1);
